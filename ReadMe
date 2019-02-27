@@ -1,0 +1,5 @@
+set_training data is used to get uniformly selected samples and label.
+
+two spiders is to crawling
+
+two cleaning deals with pre-processing data
